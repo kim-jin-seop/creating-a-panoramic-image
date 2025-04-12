@@ -1,4 +1,4 @@
-# Creating-a-panoramic-image-by-homography_orb_ransac
+# Creating-a-panoramic-image
 [report](https://github.com/kim-jin-seop/Creating-a-panoramic-image-by-homography_orb_ransac/blob/main/report.pdf)
 /[code](https://github.com/kim-jin-seop/Creating-a-panoramic-image-by-homography_orb_ransac/blob/main/homography.py)
 ## Introduction
